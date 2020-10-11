@@ -1,0 +1,2 @@
+simple_salesforce == '1.10.1'
+requests == '2.23.0'
